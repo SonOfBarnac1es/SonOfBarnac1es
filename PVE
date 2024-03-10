@@ -5,17 +5,35 @@ title:PVE
 dimwishlist:item=355382946&perks=1482024992,1968497646,2779035018,4293542123
 
 
+// Coronach-22 - Coronach-22 GR PVP (god-pvp)
+//notes: MW: Range, Mod: Targeting Adjuster tags:god-pvp
+dimwishlist:item=355382946&perks=1482024992,1561002382,2387244414,3751912585
+
+
 // The Title - Title GR PVE  (god-pve)
 //notes: MW: Handling or Range tags:god-pve
 dimwishlist:item=655712834&perks=839105230,1885400500,776531651,2048641572
 
 
-// The Title - Title PVE (god-pve)
-//notes: MW: Handling or Range tags:god-pve
+// The Title - Title PVE (pve)
+//notes: MW: Handling or Range tags:pve
 dimwishlist:item=655712834&perks=839105230,1885400500,776531651,2048641572
 dimwishlist:item=655712834&perks=839105230,1885400500,776531651,3708227201
 dimwishlist:item=655712834&perks=839105230,1885400500,1631667848,2048641572
 dimwishlist:item=655712834&perks=839105230,1885400500,1631667848,3708227201
+
+
+// The Title - Title GR PVP (god-pvp)
+//notes: MW: Handling or Range tags:god-pvp
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,2846385770
+
+
+// The Title - Title PVP (pvp)
+//notes: MW: Handling or Range tags:pvp
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,2846385770
+dimwishlist:item=655712834&perks=3250034553,1885400500,1359896290,4082225868
+dimwishlist:item=655712834&perks=3250034553,1561002382,1359896290,2846385770
+dimwishlist:item=655712834&perks=3250034553,1561002382,1359896290,4082225868
 
 
 // Hullabaloo - Hullabaloo GR PVE Ads (god-pve)
@@ -28,14 +46,29 @@ dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
 dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
 
 
+// Hullabaloo - Hullabaloo GR PVP (god-pvp)
+//notes: MW: Handling tags:god-pvp
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,2396489472
+
+
 // Wastelander M5 - Wastelander M5 GR PVE (god-pve)
 //notes: MW: Range, Mod: Major Spec tags:god-pve
 dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2360754333
 
 
+// Wastelander M5 - Wastelander M5 GR PVP (god-pvp)
+//notes: MW: Range, Mod: Sprint Grip tags:god-pvp
+dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,2450788523
+
+
 // Kept Confidence - Kept Confidence GR PVE  (god-pve)
 //notes: MW: Range tags:god-pve
 dimwishlist:item=1875512595&perks=3661387068,3142289711,2450788523,2458213969
+
+
+// Kept Confidence - Kept Confidence GR PVP (god-pvp)
+//notes: MW: Range tags:god-pvp
+dimwishlist:item=1875512595&perks=839105230,3142289711,2450788523,699525795
 
 
 // Taraxippos - Taraxippos GR PVE (god-pve)
@@ -49,8 +82,19 @@ dimwishlist:item=3007479950&perks=3250034553,2420895100,3828510309,555281244
 dimwishlist:item=3007479950&perks=3250034553,2420895100,3828510309,3751912585
 
 
+// Taraxippos - Taraxippos GR PVP (god-pvp)
+//notes: MW: Stability tags:god-pvp
+dimwishlist:item=3007479950&perks=3661387068,3142289711,699525795,3751912585
+dimwishlist:item=3007479950&perks=3661387068,3142289711,699525795,1015611457
+dimwishlist:item=3007479950&perks=3661387068,3142289711,3619207468,3751912585
+dimwishlist:item=3007479950&perks=3661387068,3142289711,3619207468,1015611457
+
+
 // Autumn Wind - Autumn Wind GR PVE (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3110377595&perks=839105230,1885400500,3523296417,4104185692
 
 
+// Autumn Wind - Autumn Wind GR PVP (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3110377595&perks=3250034553,1885400500,2846385770,460017080
