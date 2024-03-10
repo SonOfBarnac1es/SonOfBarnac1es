@@ -1,10 +1,56 @@
+title:PVE
+
+// Coronach-22 - Coronach-22 GR PVE (god-pve)
+//notes: MW: Range, Mod: Minor Spec tags:god-pve
+dimwishlist:item=355382946&perks=1482024992,1968497646,2779035018,4293542123
+
+
+// The Title - Title GR PVE  (god-pve)
+//notes: MW: Handling or Range tags:god-pve
 dimwishlist:item=655712834&perks=839105230,1885400500,776531651,2048641572
-dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585,1702976605
-dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
+
+
+// The Title - Title PVE (god-pve)
+//notes: MW: Handling or Range tags:god-pve
+dimwishlist:item=655712834&perks=839105230,1885400500,776531651,2048641572
+dimwishlist:item=655712834&perks=839105230,1885400500,776531651,3708227201
+dimwishlist:item=655712834&perks=839105230,1885400500,1631667848,2048641572
 dimwishlist:item=655712834&perks=839105230,1885400500,1631667848,3708227201
+
+
+// Hullabaloo - Hullabaloo GR PVE Ads (god-pve)
+//notes: MW: Handling tags:god-pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
+
+
+// Hullabaloo - Hullabaloo GR PVE DPS (god-pve)
+//notes: MW: Handling tags:god-pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
+
+
+// Wastelander M5 - Wastelander M5 GR PVE (god-pve)
+//notes: MW: Range, Mod: Major Spec tags:god-pve
+dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2360754333
+
+
+// Kept Confidence - Kept Confidence GR PVE  (god-pve)
+//notes: MW: Range tags:god-pve
+dimwishlist:item=1875512595&perks=3661387068,3142289711,2450788523,2458213969
+
+
+// Taraxippos - Taraxippos GR PVE (god-pve)
+//notes: MW: Range or Stability tags:god-pve
+dimwishlist:item=3007479950&perks=3250034553,2420895100,3828510309,555281244
+
+
+// Taraxippos - Taraxippos PVE (pve)
+//notes: MW: Range or Stability tags:pve
 dimwishlist:item=3007479950&perks=3250034553,2420895100,3828510309,555281244
 dimwishlist:item=3007479950&perks=3250034553,2420895100,3828510309,3751912585
-dimwishlist:item=1875512595&perks=3661387068,3142289711,2450788523,2458213969
+
+
+// Autumn Wind - Autumn Wind GR PVE (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3110377595&perks=839105230,1885400500,3523296417,4104185692
-dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2360754333
-dimwishlist:item=355382946&perks=1482024992,1968497646,2779035018,4293542123
+
+
